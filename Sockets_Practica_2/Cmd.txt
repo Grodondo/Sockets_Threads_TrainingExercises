@@ -1,0 +1,2 @@
+cd C:\Users\drago\eclipse-workspaces\eclipse-workspace\Sockets_Practica_2
+javac -d bin src/cliente/ClientManager.java src/cliente/mainCliente.java
